@@ -1,0 +1,4 @@
+author = Adrien
+ displayName = More_Weapons
+ homepage = https://www.youtube.com/channel/UCUDJPmDT_b3dDGta5VWpVxg
+version = 1.1.2.0

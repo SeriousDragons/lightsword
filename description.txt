@@ -1,0 +1,5 @@
+This Mod Adds Weapon items, if you have any recommendations or spot any bugs, please email me at: adrien_s@techie.com and i will look into it! Most Items are made from dirt. 
+Version 1.1.2.0 -Added Weapon: Poop Sword
+Version 1.1.0.1 -Added Mod Icon 
+Version 1.1 -Added Weapons: Vampire Sword and Wooden Dagger
+Version 1.0 -Mod Released
